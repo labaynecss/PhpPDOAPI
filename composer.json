@@ -1,0 +1,18 @@
+{
+  "name": "labay/api",
+  "autoload": {
+    "psr-4": {
+      "Labay\\Api\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Carl",
+      "email": "115208690+labaynecss@users.noreply.github.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.3",
+    "firebase/php-jwt": "^6.5"
+  }
+}
